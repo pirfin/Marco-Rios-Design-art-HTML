@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://marcorios.teleporthq.app/sitemap.xml
+Sitemap: https://YOUR_DOMAIN/sitemap.xml
