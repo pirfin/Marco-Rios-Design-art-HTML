@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://marco-rios-design-art-2ew0b9.teleporthq.app/sitemap.xml
+Sitemap: /sitemap.xml
