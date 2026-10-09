@@ -1,9 +1,0 @@
-{
-  "name": "marco-rios-design-art",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "parcel-bundler": "^1.6.1",
-    "@lottiefiles/lottie-player": "1.5.7"
-  }
-}
